@@ -1,2 +1,3 @@
 # Tymr
 Tymr- A time tracking system project (desktop application) built with Visual Basic . Part of  the Hands on Visual Basic 5 
+This aaplication is being built with Visual Studio 2019 Community Edition, however the project was originally made for Visual Basic 5. Please advise that some of the nain conventions have changed with the new edition which is now called Visual Studio 2019. Example of changes is the group box located in the toolbox. In Visual Basic 5, it was called "frame". The naming convention used to describe the object in the properties window is"fr". Since this project is currently still in developement, I am not sure how this change my impact the function of the application. Any of those edits will be well docmented here. 
